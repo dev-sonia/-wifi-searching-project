@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wifi-searching-project:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>wifi-searching-project</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="wifi-searching-project-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="wifi-searching-project:war exploded" />
+    </root>
+  </artifact>
+</component>
